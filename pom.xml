@@ -24,12 +24,12 @@
     <repository>
         <id>central</id>
         <name>Jaydatt-releases</name>
-        <url>http://192.168.0.156:8081/artifactory/libs-snapshot-local</url>
+        <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>Jaydatt-snapshots</name>
-        <url>http://192.168.0.156:8081/artifactory/libs-snapshot-local</url>
+        <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
   <build>
